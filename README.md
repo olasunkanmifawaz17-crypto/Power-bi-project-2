@@ -11,18 +11,22 @@ Users can filter and explore job posting data dynamically, while the interactive
 
 ## The dashboard has four pages 👇
 
-1. Data Job Dashboard Page
+1. Data Job Dashboard HomePage
 2. Job Drillthrough Page
 
-### Home
-Homepage: 
-Data Job Salary Insight:
-The homepage provides an overview of salary insights across different data-related job roles. It presents the median yearly salary through KPI cards, a salary comparison gauge, and an interactive table showing job titles, median salaries, and salary ratings. Navigation buttons also allow users to explore other sections of the dashboard.
+### Data Job Dashboard
+
+**Home Page:**
+
+This page provides an interactive overview of the data job market, featuring key metrics such as total job count, average job rating, and median yearly and hourly salaries. It includes job posting trends, salary comparisons by job title, job counts across roles, and a detailed job-title table. A job-title slicer also allows users to filter the dashboard and explore specific roles.
+
 ![Data Job Dashboard Image](/Data%20Job%20Dashboard.png)
 
-### Salary Insight
-Salary Insight Page:
-This page provides a detailed comparison of salaries across different data-related job roles. It includes interactive charts showing the highest-paying positions by day, month, and hourly rates, alongside job-specific salary comparisons. Interactive job-role buttons and selection controls allow users to filter the visualizations and explore salary insights based on their chosen roles.
+### Job Drillthrough
+
+**Job Drillthrough Page:**
+
+This page provides a detailed overview of a selected data-related job role, with the current selection shown as **Business Analyst**. It presents salary insights through yearly and hourly salary gauges, alongside visualizations of work-from-home availability, health insurance, and degree requirements. Additional charts show job schedule types, popular job platforms, and the geographical distribution of job postings by country.
 ![Job Drillthrough Image](/Job%20Drillthrough.png)
 
 ### Tools & Skills
